@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Working on Git
-=======
 My Name is Shashi
->>>>>>> 939310c4e5a56f826a9b6cb3a23a932e43839e4c
-
 Adding to Second Line
